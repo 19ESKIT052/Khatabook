@@ -1,8 +1,6 @@
 # Khatabook (Money Manager) App
 
 
-
-
 A money manager app is a convenient tool designed to help individuals efficiently manage their finances. It provides users with a range of features such as budget tracking, expense categorization, bill reminders, and investment tracking. These apps often offer secure integration with bank accounts and credit cards, allowing users to view their financial transactions in one place. With real-time updates and customizable financial goals, money manager apps empower users to make informed financial decisions and achieve their savings objectives. By simplifying money management tasks, these apps promote financial organization and enable users to take control of their financial well-being.
 
 
