@@ -23,7 +23,7 @@ Project Report (PDF) - https://drive.google.com/file/d/1RKN61ICghYZ288SpGYEOaBao
 
 
 
-Form 1 - https://drive.google.com/file/d/1tWrSws7t1E0Br_aDrnmiFfbxuh97m9N5/view?usp=sharing
+Form 1 - https://drive.google.com/file/d/1I4kUz2ezZ3XRRvCetLtYwh538M7iOhgn/view?usp=sharing
 
 
 
@@ -39,4 +39,9 @@ Form 3 - https://drive.google.com/file/d/1cGd2ah7wFqhbvpXkiF7f6daJhn3ugFST/view?
 
 
 
-Presentation (Latex) (ZIP) - 
+Presentation (Latex) (ZIP) - https://drive.google.com/file/d/1qRDXMhpNw5Zgp66kfbQwI9m_KZpoGk-y/view?usp=sharing
+
+
+
+
+Presentation (PPT) - https://docs.google.com/presentation/d/1SzFV3dNTyzY4cJIE2F_6-wyxxL9gxSjI/edit?usp=sharing&ouid=109622803215735711507&rtpof=true&sd=true
