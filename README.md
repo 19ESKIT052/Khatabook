@@ -39,9 +39,9 @@ Form 3 - https://drive.google.com/file/d/1cGd2ah7wFqhbvpXkiF7f6daJhn3ugFST/view?
 
 
 
-Presentation (Latex) (ZIP) - https://drive.google.com/file/d/1qRDXMhpNw5Zgp66kfbQwI9m_KZpoGk-y/view?usp=sharing
+Project Presentation (Latex) (ZIP) - https://drive.google.com/file/d/1qRDXMhpNw5Zgp66kfbQwI9m_KZpoGk-y/view?usp=sharing
 
 
 
 
-Presentation (PPT) - https://docs.google.com/presentation/d/1SzFV3dNTyzY4cJIE2F_6-wyxxL9gxSjI/edit?usp=sharing&ouid=109622803215735711507&rtpof=true&sd=true
+Project Presentation (PPT) - https://docs.google.com/presentation/d/1SzFV3dNTyzY4cJIE2F_6-wyxxL9gxSjI/edit?usp=sharing&ouid=109622803215735711507&rtpof=true&sd=true
