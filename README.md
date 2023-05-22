@@ -22,5 +22,3 @@ APK Download - https://drive.google.com/file/d/12k4Z0DNinNUc7g3KgRmuzLo2bnZ3_6fC
 
 [<img src="https://cloud.githubusercontent.com/assets/5264535/23584139/f12ae6ca-0125-11e7-855e-aaf44bd36873.png" width=250>](https://cloud.githubusercontent.com/assets/5264535/23584139/f12ae6ca-0125-11e7-855e-aaf44bd36873.png)
 [<img src="https://cloud.githubusercontent.com/assets/5264535/23584140/f2b7acf8-0125-11e7-8aea-62e49e1e9cf4.png" width=250>](https://cloud.githubusercontent.com/assets/5264535/23584140/f2b7acf8-0125-11e7-8aea-62e49e1e9cf4.png)
-by [naim](https://thenounproject.com/naim.solis/)
-- [Save](https://thenounproject.com/term/save/716011) by [Bernar Novalyi](https://thenounproject.com/bernar.novalyi)
