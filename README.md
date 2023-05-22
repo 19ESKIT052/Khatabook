@@ -10,8 +10,6 @@ A money manager app is a convenient tool designed to help individuals efficientl
 [<img src="https://cloud.githubusercontent.com/assets/5264535/23584129/b21da058-0125-11e7-952a-3f8202fe70b4.png" width=250>](https://cloud.githubusercontent.com/assets/5264535/23584129/b21da058-0125-11e7-952a-3f8202fe70b4.png)
 [<img src="https://cloud.githubusercontent.com/assets/5264535/23584137/ed87297a-0125-11e7-8d76-38b77a2938da.png" width=250>](https://cloud.githubusercontent.com/assets/5264535/23584137/ed87297a-0125-11e7-8d76-38b77a2938da.png)
 [<img src="https://cloud.githubusercontent.com/assets/5264535/24686991/1939303c-1985-11e7-828a-836227bdc155.png" width=250>](https://cloud.githubusercontent.com/assets/5264535/24686991/1939303c-1985-11e7-828a-836227bdc155.png)
-
-[<img src="https://cloud.githubusercontent.com/assets/5264535/23584139/f12ae6ca-0125-11e7-855e-aaf44bd36873.png" width=250>](https://cloud.githubusercontent.com/assets/5264535/23584139/f12ae6ca-0125-11e7-855e-aaf44bd36873.png)
 [<img src="https://cloud.githubusercontent.com/assets/5264535/23584140/f2b7acf8-0125-11e7-8aea-62e49e1e9cf4.png" width=250>](https://cloud.githubusercontent.com/assets/5264535/23584140/f2b7acf8-0125-11e7-8aea-62e49e1e9cf4.png)
 
 
