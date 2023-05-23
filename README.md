@@ -28,7 +28,7 @@ APK Download - https://drive.google.com/file/d/1KejTNeY3hBXHTQNIjwuWEpxqb1-BAulI
 
 
 
-Abstract - https://drive.google.com/file/d/1CG42orrBEm-n9OvlxLe2sWsskCH8iawg/view?usp=sharing
+Abstract - https://drive.google.com/file/d/1bvXYAP0A0Z0rac18ichuGv1wmTdOv2pQ/view?usp=sharing
 
 
 
@@ -38,12 +38,12 @@ SRS - https://drive.google.com/file/d/1V1MvvXg1FmskLKbHsnc-ckLFpKNE0Rcc/view?usp
 
 
 
-Project Report (Latex) (ZIP) - https://drive.google.com/file/d/1LM7fUuWELNyo9EdreROABj8XIZSXtI26/view?usp=sharing
+Project Report (Latex) (ZIP) - https://drive.google.com/file/d/1LVpvuSw705cRvsYCxhu3k-XsnpP3OuYM/view?usp=sharing
 
 
 
 
-Project Report (PDF) - https://drive.google.com/file/d/1U4jQfFVgtK0h1gxy68RQjLlfZdpP9m72/view?usp=sharing
+Project Report (PDF) - https://drive.google.com/file/d/1NGWBe4HLz8ftVstQxCFwI6zMNf0LOMLg/view?usp=sharing
 
 
 
